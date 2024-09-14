@@ -18,6 +18,6 @@ public class n_1330 {
         }
 
         // 같은 코드, 삼항연산자 중첩
-        System.out.println((A>B) ? ">" : ((A<B) ? "<" : "=="));
+        System.out.println((A > B) ? ">" : ((A < B) ? "<" : "=="));
     }
 }
